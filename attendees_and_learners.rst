@@ -1,3 +1,5 @@
+Wichtiger Hinweis:
+
 ####################
 Attendees & learners
 ####################
