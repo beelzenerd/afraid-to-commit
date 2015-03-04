@@ -1,6 +1,8 @@
 Wichtiger Hinweis:
 Eine Änderung.
 
+Zweite Änderung!
+
 ####################
 Attendees & learners
 ####################
